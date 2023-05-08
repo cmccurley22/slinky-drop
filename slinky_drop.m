@@ -1,7 +1,7 @@
 function slinky_drop
 %% system parameters
 k = 20; % spring constant
-N = 2; % number of masses in model
+N = 10; % number of masses in model
 m = .1 / N; % mass of each (kg)
 g = 9.81;
 
