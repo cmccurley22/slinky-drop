@@ -2,7 +2,7 @@
 Oliver Buchwald and Kate McCurley
 
 ## Description
-For our project, we decided to model dropping a fully extended slinky held from the top, as seen [here](https://www.youtube.com/watch?v=wGIZKETKKdw). We initially modelled this slinky as two masses attached by a spring, then extended this to modelling the slinky as a variable number of masses. The code used to create this model can be found in the file [`slinky_drop.m`](https://github.com/cmccurley22/slinky-drop/blob/main/slinky_drop.m). 
+For our project, we decided to model dropping a fully extended slinky held from the top, as seen [here](https://www.youtube.com/watch?v=wGIZKETKKdw). We initially modelled this slinky as two masses attached by a spring, then extended this to modelling the slinky as a variable number of masses. The code used to create this model can be found in the file [`slinky_drop.m`](https://github.com/cmccurley22/slinky-drop/blob/main/slinky_drop.m). Also contained in this repository are videos of animations showing our results.
 
 ## Results
 We plotted position and velocity over time of each individual mass in three different slinky models: one with 2 masses, one with 5 masses, and one with 10 masses. Ultimately, the behavior was similar but with more masses added you were able to better see how the slinky really compresses from the top down to the bottom.
