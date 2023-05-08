@@ -6,6 +6,10 @@ For our project, we decided to model dropping a fully extended slinky held from 
 
 We also created a video summarizing our results, which can be found [here](https://youtu.be/1e-ELydujkM).
 
+## Equations of Motion and Free Body Diagrams
+Here are the equations of motion and free body diagrams illustrated for the specific case of N = 3 (representing the slinky as three masses connected by springs).
+![math and FBDs of slinky with N = 3](slinky-math.png)
+
 ## Results
 We plotted position and velocity over time of each individual mass in three different slinky models: one with 2 masses, one with 5 masses, and one with 10 masses. Ultimately, the behavior was similar but with more masses added you were able to better see how the slinky really compresses from the top down to the bottom.
 
